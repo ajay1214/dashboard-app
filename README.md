@@ -166,20 +166,22 @@ This application integrates with [JSONPlaceholder](https://jsonplaceholder.typic
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
-*Clean login interface with form validation and responsive design*
+
+![alt text](image-2.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
-*Main dashboard with sidebar navigation, metrics cards, and interactive charts*
+
+![alt text](image-3.png)
 
 ### User Profile
-![User Profile](screenshots/profile.png)
-*Detailed user information display with API-fetched data*
+
+![alt text](image-4.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
-*Responsive design optimized for mobile devices*
+
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 ## 🤝 Contributing
 
